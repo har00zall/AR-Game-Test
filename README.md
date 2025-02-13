@@ -9,9 +9,7 @@
   - [Install Git LFS](#install-git-lfs)
   - [Clone the Project](#clone-the-project)
 - [Opening the Project](#opening-the-project)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [IMPORTANT](#Important)
 
 ## Introduction
 
