@@ -22,6 +22,9 @@ However, the project flow is same, just the game is suggested to built on Unity 
 - Main Menu : 0
 - Game : 1
 
+## Main Game Files:
+- _Game Content/
+
 ## Requirements
 
 - Unity version: Unity 6.x & Unity 2019.4.x
