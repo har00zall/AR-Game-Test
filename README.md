@@ -18,6 +18,10 @@ Due to compatibility issue, I have upgraded the project from Unity 2019.4.x to U
 The main problem on Unity 2019 is the ARFoundation this version is not compatible with newer Android device.
 However, the project flow is same, just the game is suggested to built on Unity 6 instead of Unity 2019
 
+## Scene Structure
+- Main Menu : 0
+- Game : 1
+
 ## Requirements
 
 - Unity version: Unity 6.x & Unity 2019.4.x
